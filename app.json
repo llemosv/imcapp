@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "60568ad1-5e7e-47d9-8e60-d47e510d26f4"
+      }
+    },
+    "owner": "llemosv"
   }
 }
